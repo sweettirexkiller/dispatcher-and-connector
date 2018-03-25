@@ -29,4 +29,8 @@ To by było na tyle. Można to zobaczyć na jupyter notebook ;))
 
 # Connector
 
-In this part I just have my love  :heart: :heart: from first database connection. How lovely. 
+In this part I just have my love  :heart: :heart: from first database connection. 
+
+![screen](screen4.png)
+
+How lovely. 
